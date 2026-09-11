@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: #F7F7F7;
+    font-family: iranyekan;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: iranyekan;
+    src: url("../assets/fonts/IRANYekanRegular.ttf") format("TrueType");
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: iranyekan;
+    src: url("../assets/fonts/IRANYekanMedium.ttf") format("TrueType");
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+@font-face {
+    font-family: iranyekan;
+    src: url("../assets/fonts/IRANYekanBold.ttf") format("WOFF2");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: iranyekan;
+    src: url("../assets/fonts/IRANYekanXVFaNumVF.DBKnep-K.woff2") format("WOFF2");
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+a{
+    text-decoration: none;
+    line-height: 0;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+
+
+input::placeholder{
+    font-family: iranyekan;
+}
+
+button{
+         font-family: iranyekan;
+}
