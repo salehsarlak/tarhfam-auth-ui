@@ -15,7 +15,7 @@
 **A modern, clean & fully RTL Authentication UI**  
 Designed and developed with a custom RTL interface inspired by modern Persian websites.
 
-[![Demo Preview](https://raw.githubusercontent.com/salehsarlak/tarhfam-auth-ui/main/assets/images/tarhfam.webp)](https://salehsarlak.github.io/tarhfam-auth-ui/)
+[![Demo Preview](https://raw.githubusercontent.com/salehsarlak/tarhfam-auth-ui/main/assets/screencapture-salehsarlak-github-io-tarhfam-auth-ui-register-html-2026-09-11-10_32_31.webp)](https://salehsarlak.github.io/tarhfam-auth-ui/)
 
 </div>
 
