@@ -2,7 +2,7 @@
 
 # 🔐 TarhFam Auth UI
 
-### رابط کاربری مدرن احراز هویت برای طرحفام
+### A modern authentication UI for TarhFam
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-205FEB?style=for-the-badge&logo=github&logoColor=white)](https://salehsarlak.github.io/tarhfam-auth-ui/)
 [![GitHub Stars](https://img.shields.io/github/stars/salehsarlak/tarhfam-auth-ui?style=for-the-badge&logo=github&color=yellow)](https://github.com/salehsarlak/tarhfam-auth-ui/stargazers)
@@ -13,7 +13,7 @@
 <br>
 
 **A modern, clean & fully RTL Authentication UI**  
-طراحی‌شده با الهام از سایت‌های مدرن فارسی و تجربه کاربری عالی
+Designed and developed with a custom RTL interface inspired by modern Persian websites.
 
 [![Demo Preview](https://raw.githubusercontent.com/salehsarlak/tarhfam-auth-ui/main/assets/images/tarhfam.webp)](https://salehsarlak.github.io/tarhfam-auth-ui/)
 
@@ -21,124 +21,124 @@
 
 ---
 
-## ✨ ویژگی‌ها | Features
+## ✨ Features
 
-| ویژگی | توضیح |
-|-------|--------|
-| 🇮🇷 **RTL کامل** | پشتیبانی کامل از راست‌چین و فونت‌های فارسی (IRANYekan) |
-| 📱 **ریسپانسیو** | طراحی کاملاً واکنش‌گرا برای موبایل و دسکتاپ |
-| 🎨 **طراحی مدرن** | UI تمیز با رنگ‌های برند طرحفام و انیمیشن‌های نرم |
-| ⚡ **سبک و سریع** | فقط HTML + CSS خالص، بدون وابستگی به فریم‌ورک |
-| 🔐 **صفحات احراز هویت** | صفحه ورود و ثبت‌نام آماده |
+| Feature | Description |
+|---------|-------------|
+| 🇮🇷 **Full RTL Support** | Complete right-to-left layout with Persian fonts (IRANYekan) |
+| 📱 **Fully Responsive** | Looks great on mobile, tablet, and desktop |
+| 🎨 **Modern Design** | Clean UI with TarhFam brand colors and smooth transitions |
+| ⚡ **Lightweight** | Pure HTML + CSS – no frameworks or dependencies |
+| 🔐 **Ready-to-use Auth Pages** | Login and Register pages included |
 
 ---
 
-## 🚀 دموی زنده | Live Demo
+## 🚀 Live Demo
 
-> **همین الان تجربه کنید:**
+> **Try it right now:**
 
 ### 👉 [https://salehsarlak.github.io/tarhfam-auth-ui/](https://salehsarlak.github.io/tarhfam-auth-ui/)
 
-- [صفحه ورود (Login)](https://salehsarlak.github.io/tarhfam-auth-ui/login.html)
-- [صفحه ثبت‌نام (Register)](https://salehsarlak.github.io/tarhfam-auth-ui/register.html)
+- [Login Page](https://salehsarlak.github.io/tarhfam-auth-ui/login.html)
+- [Register Page](https://salehsarlak.github.io/tarhfam-auth-ui/register.html)
 
-> ⚠️ اگر دمو هنوز فعال نیست، به **Settings → Pages** در ریپو بروید و Source را روی `main` / `/ (root)` قرار دهید.
+> ⚠️ If the demo is not live yet, go to **Settings → Pages** in the repository and set Source to `main` / `/ (root)`.
 
 ---
 
-## 📂 ساختار پروژه | Project Structure
+## 📂 Project Structure
 
 ```text
 tarhfam-auth-ui/
-├── index.html          # نقطه ورود دمو (Redirect به login)
-├── login.html          # صفحه ورود
-├── register.html       # صفحه ثبت‌نام
+├── index.html          # Demo entry point (redirects to login)
+├── login.html          # Login page
+├── register.html       # Register page
 ├── css/
 │   ├── reset.css
 │   └── style.css
 └── assets/
-    ├── fonts/          # فونت‌های IRANYekan
-    └── images/         # لوگو و تصاویر
+    ├── fonts/          # IRANYekan fonts
+    └── images/         # Logo and assets
 ```
 
 ---
 
-## 🛠️ تکنولوژی‌ها | Tech Stack
+## 🛠️ Tech Stack
 
-- **HTML5** – ساختار معنایی
-- **CSS3** – Flexbox، Transition، Media Queries
-- **فونت فارسی** – IRANYekan (Regular / Medium / Bold)
-- **آیکون‌های SVG** – سبک و بدون وابستگی
+- **HTML5** – Semantic structure
+- **CSS3** – Flexbox, transitions, media queries
+- **Persian Fonts** – IRANYekan (Regular / Medium / Bold)
+- **SVG Icons** – Lightweight and dependency-free
 
 ---
 
-## 📦 نحوه استفاده | How to Use
+## 📦 How to Use
 
-1. ریپو را کلون کنید:
+1. Clone the repository:
 ```bash
 git clone https://github.com/salehsarlak/tarhfam-auth-ui.git
 cd tarhfam-auth-ui
 ```
 
-2. فایل‌های `login.html` یا `register.html` را در مرورگر باز کنید.
+2. Open `login.html` or `register.html` in your browser.
 
-یا مستقیماً از دموی زنده استفاده کنید!
+Or just use the live demo!
 
 ---
 
-## 🎨 سفارشی‌سازی | Customization
+## 🎨 Customization
 
-رنگ اصلی برند در فایل `css/style.css`:
+Main brand color is defined in `css/style.css`:
 
 ```css
-/* رنگ اصلی طرحفام */
+/* TarhFam primary color */
 #205FEB
 ```
 
-فونت‌ها در پوشه `assets/fonts/` قرار دارند.
+Fonts are located in the `assets/fonts/` folder.
 
 ---
 
-## 📸 پیش‌نمایش | Screenshots
+## 📸 Screenshots
 
 <div align="center">
 
-| ورود | ثبت‌نام |
-|:---:|:---:|
+| Login | Register |
+|:-----:|:--------:|
 | ![Login](https://raw.githubusercontent.com/salehsarlak/tarhfam-auth-ui/main/assets/images/tarhfam.webp) | ![Register](https://raw.githubusercontent.com/salehsarlak/tarhfam-auth-ui/main/assets/images/tarhfam.webp) |
 
 </div>
 
-> *در حال حاضر از لوگوی پروژه استفاده شده. می‌توانید اسکرین‌شات واقعی اضافه کنید.*
+> *Currently using the project logo. You can replace these with real screenshots.*
 
 ---
 
-## 🤝 مشارکت | Contributing
+## 🤝 Contributing
 
-هرگونه پیشنهاد، باگ‌ریپورت یا Pull Request خوشحال‌کننده است!
+Contributions, issues, and feature requests are welcome!
 
-1. Fork کنید
-2. Branch جدید بسازید (`git checkout -b feature/amazing`)
-3. Commit کنید
-4. Push کنید و PR بفرستید
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/amazing`)
+3. Commit your changes
+4. Push to the branch and open a Pull Request
 
 ---
 
-## 📄 لایسنس | License
+## 📄 License
 
-این پروژه تحت لایسنس MIT منتشر شده است.
+This project is licensed under the MIT License.
 
 ---
 
 <div align="center">
 
-**ساخته شده با ❤️ توسط [Saleh Sarlak](https://github.com/salehsarlak) برای [TarhFam](https://tarhfam.ir)**
+**Made with ❤️ by [Saleh Sarlak](https://github.com/salehsarlak) for [TarhFam](https://tarhfam.ir)**
 
 [![TarhFam](https://img.shields.io/badge/TarhFam-205FEB?style=for-the-badge)](https://tarhfam.ir)
 [![GitHub](https://img.shields.io/badge/GitHub-salehsarlak-181717?style=for-the-badge&logo=github)](https://github.com/salehsarlak)
 
 <br>
 
-⭐ اگر این پروژه براتون مفید بود، یه ستاره بدید!
+⭐ If you find this project useful, please give it a star!
 
 </div>
