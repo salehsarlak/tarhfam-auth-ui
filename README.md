@@ -97,21 +97,7 @@ Main brand color is defined in `css/style.css`:
 
 Fonts are located in the `assets/fonts/` folder.
 
----
 
-## 📸 Screenshots
-
-<div align="center">
-
-| Login | Register |
-|:-----:|:--------:|
-| ![Login](https://raw.githubusercontent.com/salehsarlak/tarhfam-auth-ui/main/assets/images/tarhfam.webp) | ![Register](https://raw.githubusercontent.com/salehsarlak/tarhfam-auth-ui/main/assets/images/tarhfam.webp) |
-
-</div>
-
-> *Currently using the project logo. You can replace these with real screenshots.*
-
----
 
 ## 🤝 Contributing
 
